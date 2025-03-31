@@ -19,7 +19,7 @@ body {
   
   /* Container with the background image */
   .container {
-    background: url('https://i.postimg.cc/TY28jTqJ/bg4-ia.jpg') no-repeat center center/cover;
+    background: url('https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_TheLegendOfZeldaALinkBetweenWorlds.jpg') no-repeat center center/cover;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -40,7 +40,7 @@ body {
   
   /* Button Styles */
   button {
-    background-color: #ff1b7b;
+    background-color: red;
     border: none;
     padding: 10px 20px;
     font-size: 1.2em;
@@ -50,7 +50,7 @@ body {
   }
   
   button:hover {
-    background-color: #1ABC9C;
+    background-color: #1abc50;
   }
   
   /* Footer Styles */
